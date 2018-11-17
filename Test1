@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Scraf!!</title>
+	<link rel="stylesheet" type="text/css" href="Scraf.css">
+	<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">
+	<!--<div class="header"> Scraf!!</div> -->
+	
+</head>		
+<body>
+	<div class="Menu1">
+		<a class="a1" href="">Contact</a>	
+		<a class="a2" href="">Restuarants</a>
+		<a class="a3" href="">Favourites</a>
+		<a class="a4" href="">Sign In</a>
+		<a class="a5" href="">Home</a>
+
+	</div>
+	<div class="tab1">
+		<p id="header">Scraf..!!</p>
+	</div>
+	<div>
+		<p id="SideBar">
+			Welcome to Scraf..!<br>
+			Not sure what you want to eat?<br>
+			Tired of shuffling through endless menus?<br>
+			Tired of browsing through sites looking for<br>
+			options to eat?<br>
+			Let Scraf..!! do the work for you<br>
+			We provide you with an<br>
+			automated daily menu based on your<br>
+			preferences.<br>
+			In the mood for something quick?<br>
+			Looking for some spicy food?<br>
+			Scraf..!! provides with the best dishes<br>
+			around you based on your cravings.<br>
+			You can either sign up or do a one<br>
+			time order<br>
+
+		</p>
+		<p>
+			What's near me?
+		</p>
+	</div>
+	
+</body>
+</html>
